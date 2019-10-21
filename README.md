@@ -3,6 +3,7 @@ ___
 
 ## `Whiles and Numbers All Wrapped Up In Strings`
 
+This was a fun activity that made you think. The challenges increased in difficultly and I learnt more about useful using a counter is.
 
 ```javascript
 function challengeBanner (num) {
@@ -380,7 +381,7 @@ printsOutTheFirstIndexOfTheLetterU ('You picked the wrong house, bub.')
 
 ## `You Deserve Arrays`
 
-This was a great introduction to arrays. 
+This was a great introduction to arrays. Using 'typeof' was a funny concept at first but got it in the end..
 
 ```javascript
 function getFirstItemFrom(arr) {
@@ -413,6 +414,7 @@ return arr.length>9
 
 ## `Array of radioactive mutants`
 
+We started this in class and finished it for homework. We were introduced to methods like push, unshift etc.
 
 
 ```javascript
@@ -475,12 +477,4 @@ function changeNextThreeToValue(a,arr,b) {
 changeNextThreeToValue(2,arr1,15)
 changeNextThreeToValue(1,arr2,15)
 
-module.exports = {
-  changeLast,
-  addMeToEnd,
-  addMeToStart,
-  changeAllValuesTo,
-  oddOrEven,
-  changeNextThreeToValue,
-}
 ```
